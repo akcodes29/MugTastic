@@ -1,4 +1,4 @@
-# MugTastic 
+# ☕ MugTastic ☕
 
 
 Welcome to MugTastic, where your sipping experience gets a personalized punch! 🎉
